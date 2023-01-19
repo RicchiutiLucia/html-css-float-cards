@@ -18,13 +18,15 @@
 .col{
     float: left;
     width: calc(100% / 3);
-    padding: 10px;
+    padding: 5px;
     background-color: #0F0E17;
+    
 }
 
 .col img{
 
     height: 100px;
+    position: relative;
 
 }
 
@@ -38,18 +40,19 @@ h1{
 span{
     font-family: 'Fredoka', sans-serif;
     color: white;
-}
-
-.name{
-    font-weight: bold;
     
-
 }
+
+
 
 p{
     text-align: center;
     font-family: 'Fredoka', sans-serif;
     margin-bottom: 20px;
+}
+.name{
+    font-weight: bold;
+    
 }
 
 .clearfix::after {
