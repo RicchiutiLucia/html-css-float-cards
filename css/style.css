@@ -38,10 +38,7 @@ body{
 img{
 
     height: 100px;
-    margin-right: 10px;
-    
-    
-    
+    margin-right: 20px;
 }
 
 h1{
@@ -63,6 +60,7 @@ p{
 }
 .profession{
     margin-top: 10px; 
+    margin-bottom: 10px;
 }
 
 .email{
