@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.debug .col {
+    border: solid 1px red;
+    
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    font-family: 'Fredoka', sans-serif;
+}
+
+.col{
+    float: left;
+    width: calc(100% / 3);
+    padding: 10px;
+}
+
+.col img{
+
+    height: 100px;
+
+}
+
+h1{
+    color: #E53170;
+    font-family: 'Fredoka', sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+p{
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+}
+
+.clearfix::after {
+    content: '';
+    clear:both;
+    display: table;
+}
