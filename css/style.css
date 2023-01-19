@@ -4,34 +4,26 @@
     box-sizing: border-box;
 }
 
-.debug .col {
-    border: solid 1px red;
-    
-}
-
-.container {
+body{
     max-width: 1170px;
     margin: 0 auto;
     font-family: 'Fredoka', sans-serif;
+
 }
 
 .col{
     float: left;
     width: calc(100% / 3);
-    padding: 5px;
+    padding:5px;
     background-color: #0F0E17;
     font-family: 'Fredoka', sans-serif;
-    color: white;
-    
-    
+    color: white;   
 }
 
 .col img{
 
     height: 80px;
     float: left;
-    
-
 }
 
 h1{
@@ -41,10 +33,6 @@ h1{
     padding: 40px;
 }
 
-
-
-
-
 p{
     text-align: center;
     font-family: 'Fredoka', sans-serif;
@@ -52,15 +40,11 @@ p{
 }
 .name{
     font-weight: bold;
-    margin-bottom: 10px;
-    
-    
+    margin-bottom: 10px;   
 }
 
 .profession{
     margin-bottom: 10px;
-    
-
 }
 
 
