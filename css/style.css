@@ -26,7 +26,8 @@
 .col img{
 
     height: 100px;
-    position: relative;
+    float: left;
+    
 
 }
 
