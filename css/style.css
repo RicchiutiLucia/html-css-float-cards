@@ -20,6 +20,8 @@
     width: calc(100% / 3);
     padding: 5px;
     background-color: #0F0E17;
+    font-family: 'Fredoka', sans-serif;
+    color: white;
     
 }
 
@@ -38,11 +40,7 @@ h1{
     padding: 40px;
 }
 
-span{
-    font-family: 'Fredoka', sans-serif;
-    color: white;
-    
-}
+
 
 
 
