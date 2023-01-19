@@ -65,6 +65,10 @@ p{
     margin-top: 10px; 
 }
 
+.email{
+    color:#6Ecadf
+}
+
 
 .clearfix::after {
     content: '';
